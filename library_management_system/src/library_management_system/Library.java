@@ -15,7 +15,7 @@ public class Library {
 	public static void main(String[] args) {
 		Scanner scannerObject1 = new Scanner(System.in);
 		System.out.println();
-		System.out.println(" **********************  Welcome to Public Library ****************** ");
+		System.out.println(" **********************  Welcome to Minnu Public Library ****************** ");
 		System.out.println();
 		log.info("Hello!!!");
 		System.out.println();
